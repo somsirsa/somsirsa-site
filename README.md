@@ -1,2 +1,2 @@
-# somsirsa-site
-Personal Website
+# Somsirsa Chatterjee
+https://ai.somsirsa.com
