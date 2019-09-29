@@ -5,10 +5,10 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Academic Kickstart"
+title = "Get to know Somsirsa!"
 subtitle = ""
 
 [design]
@@ -25,8 +25,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
+  gradient_start = "DarkBlue"
+  gradient_end = "LightBlue"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
