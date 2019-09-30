@@ -70,7 +70,7 @@ date_format = "Jan 2006"
   company = "Rabindranath Tagore International Institute of Cardiac Sciences"
   company_url = ""
   location = "Kolkata, India"
-  date_start = "2019-12-01"
+  date_start = "2009-12-01"
   date_end = "2010-06-01"
   description = """
   
