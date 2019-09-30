@@ -16,7 +16,7 @@ baseurl = "https://ai.somsirsa.com/"
 copyright = "&copy; (2019) Somsirsa Chatterjee"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-148493036-1"
 
 ############################
 ## Advanced options below ##
