@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://www.coursera.org/account/accomplishments/specialization/M44P6U6Y2MKS"
   date_start = "2018-08-01"
-  date_end = ""
+  date_end = "2018-08-01"
   description = ""
 
 [[item]]
