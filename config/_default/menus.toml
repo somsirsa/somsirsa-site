@@ -24,12 +24,12 @@
   weight = 40
 
 [[main]]
-  name = "Contact"
+  name = "Free Resources"
   url = "#contact"
   weight = 60
 
 [[main]]
-  name = "Free Resources"
+  name = "Connect"
   url = "#contact"
   weight = 70
 

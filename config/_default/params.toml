@@ -94,7 +94,7 @@ address = {street = "Chandigarh University", city = "Chandigarh", region = "", p
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "30.7333", longitude = "76.7794"}
+coordinates = {latitude = "30.7690", longitude = "76.5758"}
 
 # Directions for visitors to locate you.
 directions = "Room 504, Block 14"
@@ -109,6 +109,7 @@ appointment_url = "https://facebook.com/somsirsa"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
+  {icon = "envelope", icon_pack = "fas", name = "Connect with me", link = "mailto:contact@somsirsa.com"},
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
@@ -251,5 +252,5 @@ plugins_js  = []
 ## Marketing
 ############################
 [marketing]
-  google_analytics = ""
+  google_analytics = "UA-148493036-1"
   google_tag_manager = ""

@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of AI and Machine Learning
 
 # Organizations/Affiliations
 organizations:
@@ -18,13 +18,12 @@ organizations:
   url: "http://www.cuchd.in"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Somsirsa is a Machine Learning Consultant and Mental Health Advocate pursuing doctoral research on Interpretable Machine Learning (Explainable AI) in the Healthcare domain.
+bio: Somsirsa is a AI Consultant and Mental Health Advocate pursuing doctoral research on Interpretable Machine Learning (Explainable AI) in the Healthcare domain. He is also working towards inclusion of AI curriculum in schools.
 
 interests:
 - Explainable AI (XAI)
 - Deep Learning
-- Mental Health
-- Personal Development Strategies
+- Inclusion of AI in Education and Healthcare
 
 education:
   courses:
