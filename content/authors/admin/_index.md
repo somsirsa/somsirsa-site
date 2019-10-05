@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Somsirsa, a Machine Learning Consultant and Mental Health Advocate pursuing doctoral research on Interpretable Machine Learning (Explainable AI) in the Healthcare domain.
+Somsirsa, an AI Consultant and Mental Health Advocate pursuing doctoral research on Interpretable Machine Learning (Explainable AI) in the Healthcare domain.
 
-With more than 60 citations on his publications, Somsirsa is passionate about using Explainable AI to empower individuals and organizations so that they can build scalable sustainable models.
+With more than 60 citations on his publications, Somsirsa is passionate about using Explainable AI to empower individuals and organizations so that they can build scalable sustainable models. He is also passionate about incoporating AI curriculum in schools.
