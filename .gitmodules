@@ -1,5 +1,5 @@
-[submodule "themes/academic"]
-	path = themes/academic
+[submodule "themes/hugo-academic"]
+	path = themes/hugo-academic
 	url = https://github.com/somsirsa/hugo-academic.git
 [submodule "themes/themes/hugo-academic"]
 	path = themes/themes/hugo-academic
