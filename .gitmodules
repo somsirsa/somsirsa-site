@@ -2,3 +2,6 @@
 	path = themes/hugo-academic
 	url = https://github.com/somsirsa/hugo-academic.git
 
+[submodule "themes/academic"]
+	path = themes/academic
+	url = https://github.com/somsirsa/academic-kickstart.git
