@@ -65,9 +65,8 @@ email: "somsirsa@gmail.com"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+
 ---
 Somsirsa is a AI Consultant and Mental Health Advocate pursuing doctoral research on Explainable AI in the Healthcare domain. He also advocates the ethical use of AI. He is also working towards inclusion of AI curriculum in schools. He also believes that we are students of a global classroom and has an entrepreneurial mindset.
 
