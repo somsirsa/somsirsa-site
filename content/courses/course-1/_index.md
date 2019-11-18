@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
-linktitle: How to Read Efficiently?
-summary: Learn how to read fast and efficiently.
+linktitle: How to be the best in what you do??
+summary: Be the most effective performer!
 weight: 1
 
 # Page metadata.
@@ -16,12 +16,12 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  example:
+  course-1:
     name: Overview
     weight: 1
 ---
 
-## Flexibility
+## Reading Fast
 
 This feature can be used for publishing content such as:
 
