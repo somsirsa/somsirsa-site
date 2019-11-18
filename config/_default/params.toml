@@ -33,7 +33,7 @@ font_size = "S"
 #   For personal sites, choose "Person".
 #   For organizations and projects, choose from https://schema.org/Organization#subtypes
 #   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
-site_type = "EducationalOrganization"
+site_type = "Person"
 
 # Local business type (optional)
 # If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
@@ -114,7 +114,7 @@ contact_links = [
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@somsirsa"},
   ]
 
 ############################

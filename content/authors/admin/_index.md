@@ -18,7 +18,7 @@ organizations:
   url: "http://www.cuchd.in"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Somsirsa is a AI Consultant and Mental Health Advocate pursuing doctoral research on Interpretable Machine Learning (Explainable AI) in the Healthcare domain. He is also working towards inclusion of AI curriculum in schools.
+bio: Somsirsa is a AI Consultant and Mental Health Advocate pursuing doctoral research on Explainable AI in the Healthcare domain. He also advocates the ethical use of AI. He is also working towards inclusion of AI curriculum in schools. He also believes that we are students of a global classroom and has an entrepreneurial mindset. 
 
 interests:
 - Explainable AI (XAI)
@@ -69,7 +69,10 @@ user_groups:
 - Researchers
 - Visitors
 ---
+Somsirsa is a AI Consultant and Mental Health Advocate pursuing doctoral research on Explainable AI in the Healthcare domain. He also advocates the ethical use of AI. He is also working towards inclusion of AI curriculum in schools. He also believes that we are students of a global classroom and has an entrepreneurial mindset.
 
-Somsirsa, an AI Consultant and Mental Health Advocate pursuing doctoral research on Interpretable Machine Learning (Explainable AI) in the Healthcare domain.
+In the words of George Bernard Shaw, 
 
-With more than 60 citations on his publications, Somsirsa is passionate about using Explainable AI to empower individuals and organizations so that they can build scalable sustainable models. He is also passionate about incoporating AI curriculum in schools.
+"This is a true joy in life, being used for a purpose recognized by yourself as a mighty one, being a true force of Nature instead of a feverish little clod of ailments and grievances complaining that the world will not devote itself to making you happy. I am of the opinion that my life belongs to the whole community, and, as long as I live, it is my privilege to do for it whatever I can. 
+
+I want to be thoroughly used up when I die. For the harder I work, the more I live. I rejoice in life for its own sake. Life is no brief candle to me. It is a sort of slendid torch which I’ve got to hold up for the moment and I want to make it burn as brightly as possible before handing it on to  future generations." 
