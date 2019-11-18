@@ -21,17 +21,4 @@ menu:
     weight: 1
 ---
 
-## The following is my routine:
-* Wake up at 04:30
-* Make your bed
-* Listen to affirmations
-* Meditate
-* Make a cup of tea/coffee
-* Take a bath
-* Have a good breakfast
-* Travel for University
-* Work at University
-* Come back home
-* Relax
-* Have Dinner
-* Sleep by 00:00 
+
