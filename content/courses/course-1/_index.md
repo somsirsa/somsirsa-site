@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: How to be the best in what you do??
 summary: Be the most effective performer!
-weight: 1
+weight: 2
 
 # Page metadata.
 title: Overview
@@ -21,42 +21,17 @@ menu:
     weight: 1
 ---
 
-## Reading Fast
-
-This feature can be used for publishing content such as:
-
-* **Online courses**
-* **Project or software documentation**
-* **Tutorials**
-
-The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
-
-## Delete tutorials
-
-**To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
-
-## Update site menu
-
-After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
-
-For example, if you delete this folder, you can remove the following from your menu configuration:
-
-```toml
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
-```
-
-Or, if you are creating a software documentation site, you can rename the `courses` folder to `docs` and update the associated *Courses* menu configuration to:
-
-```toml
-[[main]]
-  name = "Docs"
-  url = "docs/"
-  weight = 50
-```
-
-## Update the docs menu
-
-If you use the *docs* layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
+## The following is my routine:
+* Wake up at 04:30
+* Make your bed
+* Listen to affirmations
+* Meditate
+* Make a cup of tea/coffee
+* Take a bath
+* Have a good breakfast
+* Travel for University
+* Work at University
+* Come back home
+* Relax
+* Have Dinner
+* Sleep by 00:00 

@@ -1,17 +1,17 @@
 ---
-title: Example Page 2
-linktitle: Tips 3-4
+title: How to choose great books?
+linktitle: Tips of choose great books!
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
 draft: false
 menu:
-  bookreading:
-    parent: Sitting Posture
-    weight: 1
+  course-1:
+    parent: Make a Routine
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 2
+weight: 3
 ---
 
 Here are some more tips for getting started with Academic:

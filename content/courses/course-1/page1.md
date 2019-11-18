@@ -1,13 +1,13 @@
 ---
-title: Sitting Posture
-linktitle: Tips 1-2
+title: Make a Routine
+linktitle: Tips to generate great habits
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
 draft: false
 menu:
   course-1:
-    parent: Sitting Posture
+    parent: Make a Routine
     weight: 1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
