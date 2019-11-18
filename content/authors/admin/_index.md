@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of AI and Machine Learning
+role: Machine Learning Evangelist, Startup Mentor, Mental Health Advocate 
 
 # Organizations/Affiliations
 organizations:
@@ -61,7 +61,7 @@ social:
   link: files/Somsirsa_Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "somsirsa@gmail.com"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
