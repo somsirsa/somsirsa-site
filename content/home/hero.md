@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academic"
+title = "Special Recommendations"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero-academic.png"
+hero_media = "/static/img/avatar.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -17,7 +17,7 @@ hero_media = "hero-academic.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "gray"
   
   # Background gradient.
   gradient_start = "#4bb4e3"
@@ -28,7 +28,7 @@ hero_media = "hero-academic.png"
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.

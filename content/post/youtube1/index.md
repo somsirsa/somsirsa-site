@@ -9,4 +9,4 @@ image:
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-{{<youtube HZcXup7p5-8>}}
+
