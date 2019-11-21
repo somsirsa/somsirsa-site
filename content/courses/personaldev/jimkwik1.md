@@ -4,6 +4,7 @@ linktitle: How to Learn Fast? by Jim Kwik
 toc: true
 type: talk
 date: "2019-05-05T00:00:00+01:00"
+event: Mindvalley Live 2019 in Los Angeles
 draft: false
 menu:
   personaldev:
