@@ -5,7 +5,7 @@ summary:
 weight: 2
 
 # Page metadata.
-title: Overview
+title: Course Outline
 date: "2018-09-09T00:00:00Z"
 lastmod: "2019-12-01T13:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,8 +17,20 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   personaldev:
-    name: Learning
+    name: Work Ethics
     weight: 1
 
 ---
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScFh1-0-wvp1QPa5FsKpQc002li2jzFiCCbPsRXA1qfsUsUhA/viewform?embedded=true" width="640" height="904" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+## Work Ethics
+
+- Kobe Bryant
+- Tim Grover
+
+## Communication
+
+- Chris Voss
+
+## Speed Learning
+
+- Jim Kwik

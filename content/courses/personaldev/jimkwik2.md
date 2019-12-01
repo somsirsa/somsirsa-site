@@ -8,13 +8,13 @@ draft: false
 menu:
   personaldev:
     parent: Speed Learning
-    weight: 1
+    weight: 02
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 2
 ---
 
-# {{<youtube uT_GcOGEFsk>}} 
+{{<youtube uT_GcOGEFsk>}}
 
 *March 28, 2018 - A Fest, In this powerful presentation, Jim Kwik is a world-renowned brain training coach who turned Hollywood Celebrities Hugh Jackman and Will Smith into superheroes in the movie X-Men. He talks about unlocking your Super Brain by incorporating effective productivity tips that will help you learn faster.*
 

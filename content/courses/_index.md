@@ -7,6 +7,7 @@ header:
   caption: ""
   image: ""
 ---
+
 ## 2019: Our Life is a Story
 
 ## **{{% staticref "files/briefings.pdf" "newtab" %}} Download Briefing Template{{% /staticref %}}**

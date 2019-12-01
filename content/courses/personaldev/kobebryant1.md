@@ -1,32 +1,32 @@
 ---
-title: How to make an efficient routine?
-linktitle: Insights to generate great habits!
+title: The Mamba Mentality by Kobe Bryant
+linktitle:
 toc: true
 type: docs
-date: "2019-12-01T14:00:00+01:00"
+date: "2019-05-05T00:00:00+01:00"
 draft: false
 menu:
   personaldev:
-    parent: Relationships
-    weight: 3
+    parent: Work Ethics
+    weight: 01
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 4
+weight: 1
 ---
 
 In this tutorial, I'll share my pro insights for getting started with an efficient routine development framework:
 
 ## The Mamba Mentality - Kobe Bryant
 
-{{youtube WY0wONSarXA}}
+{{<youtube WY0wONSarXA>}}
 
 ## Kobe Bryant Untold Stories with Patrick Bet-David
 
-{{youtube T9GvDekiJ9c}
+{{<youtube T9GvDekiJ9c>}}
 
 ## Relentless - Tim Grover
 
-{{youtube PGnKcPbe7jY}}
+{{<youtube PGnKcPbe7jY>}}
 
 ## Characteristics of The Cleaner
 
@@ -64,6 +64,6 @@ Cleaner - end result delivered - no matter what variable is thrown at them - don
 
 Feelings are awesome
 
-## **stronger your mindset the greater your skillset**
+## **Stronger your Mindset the Greater your Skillset!**
 
-## **MINDSET sets everything apart**
+## **MINDSET sets everything apart!!**

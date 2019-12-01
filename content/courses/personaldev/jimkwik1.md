@@ -9,7 +9,7 @@ draft: false
 menu:
   personaldev:
     parent: Speed Learning
-    weight: 1
+    weight: 02
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 2
