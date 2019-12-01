@@ -9,9 +9,14 @@
   weight = 10
 
 [[main]]
-  name = "Recommendations"
+  name = "My Storyline for Xperiments with Life"
   url = "courses/"
   weight = 20
+
+[[main]]
+  name = "Data and Insights from Xperiments with Life"
+  url = "#posts"
+  weight = 25
 
 [[main]]
   name = "Projects"
@@ -22,11 +27,6 @@
   name = "Publications"
   url = "#publications"
   weight = 40
-
-[[main]]
-  name = "Blog"
-  url = "#posts"
-  weight = 50
 
 [[main]]
   name = "Connect"

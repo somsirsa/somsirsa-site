@@ -1,5 +1,5 @@
 ---
-title: Youtube Blog
+title: Why you should have your own Briefing in the morning?
 date: 2019-11-18
 math: true
 diagram: true

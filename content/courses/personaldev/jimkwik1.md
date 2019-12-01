@@ -2,13 +2,13 @@
 title: How to Learn Fast?
 linktitle: How to Learn Fast? by Jim Kwik
 toc: true
-type: talk
+type: docs
 date: "2019-05-05T00:00:00+01:00"
 event: Mindvalley Live 2019 in Los Angeles
 draft: false
 menu:
   personaldev:
-    parent: Learning
+    parent: Speed Learning
     weight: 1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
@@ -16,7 +16,7 @@ weight: 2
 ---
 ## Learning Fast
 
-{{<youtube Y1e38mkTfRA>}}  
+{{<youtube Y1e38mkTfRA>}}
 
 ### Summary
 
@@ -24,7 +24,7 @@ weight: 2
 
 ## **Key Points from the Talk:**
 
-**Head, Heart, Hand: Information** (i.e. we get from podcasts, books) must be added with **Inspiration** (i.e. why we do what we want to do) to lead to **Implementation** (i.e. how we act on it), thereby causing **Integration.** 
+**Head, Heart, Hand: Information** (i.e. we get from podcasts, books) must be added with **Inspiration** (i.e. why we do what we want to do) to lead to **Implementation** (i.e. how we act on it), thereby causing **Integration.**  
 
 Who is counting on me to do my best?
 
@@ -34,14 +34,14 @@ Who is counting on me to do my best?
 
 Put First Things First: Learn with the intention of teaching.
 
-Sharpen the Saw (7th habit of Highly Effective People)
+Sharpen the Saw (7th habit of Highly Effective People - Steven Covey)
 
 Things that keep you as a slow reader:
 
 * Learn with the intention of teaching
-* Lack of education (i.e. How to read?) 
-    - upgrade reading skills
-* Lack of Focus - because we read slow 
-    - (Reading fast increases focus which helps better comprehension)
-* Subvocalisation - reduce it 
-    - use visual pacer (like fingers / mouse)
+* Lack of education (i.e. How to read?)
+    ** upgrade reading skills
+* Lack of Focus - because we read slow  
+    ** (Reading fast increases focus which helps better comprehension)
+* Subvocalisation - reduce it  
+    ** use visual pacer (like fingers / mouse)
