@@ -9,12 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "My Storyline for Xperiments with Life"
-  url = "courses/"
-  weight = 20
-
-[[main]]
-  name = "Data and Insights from Xperiments with Life"
+  name = "Insights"
   url = "#posts"
   weight = 25
 
