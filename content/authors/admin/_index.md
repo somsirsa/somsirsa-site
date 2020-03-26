@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of AI and Machine Learning
+role: Machine Learning Evangelist, Startup Mentor, Mental Health Advocate 
 
 # Organizations/Affiliations
 organizations:
@@ -42,6 +42,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: linkedin
+  icon_pack: fab
+  link: 'https://www.linkedin.com/in/somsirsa/'
 - icon: envelope
   icon_pack: fas
   link: 'mailto:contact@somsirsa.com'  # For a direct email link, use "mailto:test@example.org".
@@ -61,17 +64,21 @@ social:
   link: files/Somsirsa_Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "somsirsa@gmail.com"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
----
-Somsirsa is a AI Consultant and Mental Health Advocate pursuing doctoral research on Explainable AI in the Healthcare domain. He also advocates the ethical use of AI. He is also working towards inclusion of AI curriculum in schools. He also believes that we are students of a global classroom and has an entrepreneurial mindset.
+# user_groups:
 
-In the words of George Bernard Shaw, 
+---
+
+# Introduction
+
+Somsirsa is a Machine Learning Consultant and Mental Health Advocate pursuing doctoral research on Explainable AI in the Healthcare domain. He also advocates the ethical use of AI. He is also working towards inclusion of AI curriculum in schools. He also believes that we are students of a global classroom and has an entrepreneurial mindset.
+
+## Motto
+
+In the words of George Bernard Shaw,
 
 "This is a true joy in life, being used for a purpose recognized by yourself as a mighty one, being a true force of Nature instead of a feverish little clod of ailments and grievances complaining that the world will not devote itself to making you happy. I am of the opinion that my life belongs to the whole community, and, as long as I live, it is my privilege to do for it whatever I can. 
 
