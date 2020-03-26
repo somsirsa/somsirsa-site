@@ -1,7 +1,7 @@
 ---
 title: "Characterization of HRV by Poincare Plot Analysis among the Female Tea Garden Workers of Northern Hilly Regions of West Bengal"
 authors:
-  - admin
+  - somsirsa
   - Saugat Bhattacharyya
   - Ankur Ganguly
 date: "2020-03-11T05:30:00Z"

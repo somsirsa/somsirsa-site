@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "Explainable AI with Python"
+  name = "Web Development with Go and Dart "
   description = ""
 
 

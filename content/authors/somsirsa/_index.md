@@ -7,6 +7,7 @@ name: Somsirsa Chatterjee
 
 authors:
   - somsirsa
+  - sharman
 
 # Is this the primary user of the site?
 
@@ -14,28 +15,28 @@ superuser: true
 
 # Role/position
 
-role: Machine Learning Evangelist, Startup Mentor, Mental Health Advocate
+role: Founder, Machine Learning Evangelist
 
 # Organizations/Affiliations
 
 organizations:
-  - name: Chandigarh University
+  - name: Artificial Intelligence and Machine Learning Society, Chandigarh University
     url: "http://www.cuchd.in"
 
 # Short bio (displayed in user profile at end of posts)
 
-bio: Somsirsa is a AI Consultant and Mental Health Advocate pursuing doctoral research on Explainable AI in the Healthcare domain. He also advocates the ethical use of AI. He is also working towards inclusion of AI curriculum in schools. He also believes that we are students of a global classroom and has an entrepreneurial mindset.
+bio: Somsirsa is a AI Consultant and Mental Health Advocate pursuing doctoral research on Explainable AI in the Healthcare domain. He also advocates the ethical use of AI. He is also working towards inclusion of AI curriculum in schools. He also believes that we are students of a global classroom and should have an entrepreneurial mindset.
 
 interests:
-  - Explainable AI (XAI)
+  - Growth Hacking
   - Deep Learning
   - Inclusion of AI in Education and Healthcare
 
-education:
+#education:
 #courses: - course: PhD in Artificial Intelligence
-#institution: Chandigarh University
+#institution: Artificial Intelligence and Machine Learning Society, Chandigarh University
 #year: (Pursuing) - course: MEng in Biomedical Engineering
-institution: Jadavpur University
+#institution: Jadavpur University
 #year: 2012 - course: BTech in Biomedical Engineering
 #institution: Siliguri Institute of Technology
 #year: 2009
@@ -74,14 +75,12 @@ social:
     link: files/Somsirsa_Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-
 email: "somsirsa@gmail.com"
-
 # Organizational groups that you belong to (for People widget)
-
 # Set this to `[]` or comment out if you are not using People widget.
-
-user_groups:
-  - Researchers
-  - Administration
+#user_groups: []
 ---
+
+# About Us
+
+ai.somsirsa.com is a non-profit educational research organization aimed towards an holistic development of an individual. We are working on new age learning pedagogies using open-source agile framework to bridge the academia-industry gap present in India.
