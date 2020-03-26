@@ -35,14 +35,18 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
+<<<<<<< HEAD
   view = 2
+=======
+  view = 5
+>>>>>>> bd784e78e80990fd8e16105ecf5a85529be1efa1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -74,4 +78,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
