@@ -42,11 +42,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-<<<<<<< HEAD
-  view = 2
-=======
-  view = 5
->>>>>>> bd784e78e80990fd8e16105ecf5a85529be1efa1
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
