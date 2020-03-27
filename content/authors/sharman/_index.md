@@ -1,7 +1,7 @@
 ---
 # Display name
 
-name: Somsirsa Chatterjee
+name: Sharman Kaur
 
 # Username (this should match the folder name)
 
@@ -15,22 +15,22 @@ superuser: true
 
 # Role/position
 
-role: Founder, Machine Learning Evangelist
+role: Co-Founder, Communications Specialist
 
 # Organizations/Affiliations
 
 organizations:
-  - name: Artificial Intelligence and Machine Learning Society, Chandigarh University
-    url: "http://www.cuchd.in"
+  - name: Department of Humanities and Liberal Arts, Chandigarh University
+  - url: "http://www.cuchd.in"
 
 # Short bio (displayed in user profile at end of posts)
 
-bio: Somsirsa is a AI Consultant and Mental Health Advocate pursuing doctoral research on Explainable AI in the Healthcare domain. He also advocates the ethical use of AI. He is also working towards inclusion of AI curriculum in schools. He also believes that we are students of a global classroom and should have an entrepreneurial mindset.
+bio: Wish to pitch a business idea or a project successfully? Then be ready to put your mind and body on display. Quite a bold statement isn’t it? Well that’s what I believe in. An idea only remains an idea unless it’s articulated with apt body language. Ever wondered what differentiates an exceptionally great idea that gets across the table from another exceptionally great idea that never gets on board? Well there comes the role of using your extraordinary communication skills paired with charismatic body language.
 
 interests:
   - Growth Hacking
   - Deep Learning
-  - Inclusion of AI in Education and Healthcare
+  - Inclusion of AI in Education
 
 #education:
 #courses: - course: PhD in Artificial Intelligence
