@@ -29,4 +29,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: "example-slides"
 ---
-Wish to pitch a business idea or a project successfully? Then be ready to put your mind and body on display. Quite a bold statement isn’t it? Well that’s what I believe in. An idea only remains an idea unless it’s articulated with apt body language. This platform provides an amalgamated experience of various skill sets required in the world today, Communication and Personality Development skills being one of them.
+
+## Bio

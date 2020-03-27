@@ -1,8 +1,8 @@
 ---
-title: Dhawal Singh Panwar
+title: Aanchal Singh
 summary:
 tags:
-- Technical Design and Analysis
+- Content Design
 date: "2020-03-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
