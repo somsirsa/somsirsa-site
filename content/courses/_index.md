@@ -8,8 +8,4 @@ header:
   image: ""
 ---
 
-## Our Life is a Story
-
-## {{% staticref "files/briefings.pdf" "newtab" %}} Download Briefing Template{{% /staticref %}}
-
 ## **Courses to Develop Life Skills**

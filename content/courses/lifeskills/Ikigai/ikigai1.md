@@ -6,7 +6,7 @@ type: docs
 date: "2019-05-05T00:00:00+01:00"
 draft: true
 menu:
-  personaldev:
+  lifeskills:
     parent: Ikigai
     weight: 40
 
@@ -29,7 +29,7 @@ You need to find what you love to do.
 ## **Actions**
 
 Start Part time ikigai
-  Side hustles
+Side hustles
 
 Ikigai is a verb
 
