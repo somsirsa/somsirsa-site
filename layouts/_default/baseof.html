@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.LanguageCode | default "en-us" }}">
-<meta name="google-site-verification" content="b6VrFTF9VWp13jIzSnKuJka2LYT5bujOe3bZg20WfDw" />
+
 {{ partial "site_head.html" . }}
 <body id="top" data-spy="scroll" data-offset="70" data-target="{{ if or .IsHome (eq .Type "widget_page") }}#navbar-main{{else}}#TableOfContents{{end}}" {{ if not (.Scratch.Get "light") }}class="dark"{{end}}>
 

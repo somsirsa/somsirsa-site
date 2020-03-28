@@ -33,7 +33,7 @@ font_size = "S"
 #   For personal sites, choose "Person".
 #   For organizations and projects, choose from https://schema.org/Organization#subtypes
 #   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
-site_type = "Person"
+site_type = "EducationalOrganization"
 
 # Local business type (optional)
 # If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
@@ -41,7 +41,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = "ai.somsirsa.com"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -101,7 +101,7 @@ directions = "Room 504, Block 14"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 16:00 to 17:00", "Tuesday 16:00 to 17:00", "Wednesday 16:00 to 17:00", "Thursday 16:00 to 17:00", "Friday 16:00 to 17:00"]
+office_hours = ["Monday 10:00 to 17:00", "Tuesday 10:00 to 17:00", "Wednesday 10:00 to 17:00", "Thursday 10:00 to 17:00", "Friday 10:00 to 17:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://facebook.com/somsirsa"
@@ -146,7 +146,7 @@ list_delimiter = ", "
 ############################
 
 # Get user avatars from Gravatar.com? (true/false)
-gravatar = false
+gravatar = true
 
 # Align the main menu to the right of the page? (true/false)
 menu_align_right = false
@@ -155,7 +155,7 @@ menu_align_right = false
 reading_time = true
 
 # Display next/previous section pager? (true/false)
-section_pager = false
+section_pager = true
 docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
