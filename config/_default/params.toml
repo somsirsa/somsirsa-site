@@ -12,7 +12,7 @@
 theme = "dark"
 
 # Enable users to switch between day and night mode?
-day_night = false
+day_night = true
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -33,7 +33,7 @@ font_size = "S"
 #   For personal sites, choose "Person".
 #   For organizations and projects, choose from https://schema.org/Organization#subtypes
 #   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
-site_type = "Person"
+site_type = "EducationalOrganization"
 
 # Local business type (optional)
 # If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
@@ -41,7 +41,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = "ai.somsirsa.com"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -155,7 +155,7 @@ menu_align_right = false
 reading_time = true
 
 # Display next/previous section pager? (true/false)
-section_pager = false
+section_pager = true
 docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)

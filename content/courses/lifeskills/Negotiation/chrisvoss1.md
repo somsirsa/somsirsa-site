@@ -6,8 +6,8 @@ type: docs
 date: "2019-05-05T00:00:00+01:00"
 draft: false
 menu:
-  personaldev:
-    parent: Communication
+  lifeskills:
+    parent: Negotiation
     weight: 30
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
@@ -41,11 +41,11 @@ Labeling the emotion:
 - Give them a range to work upon
 - When using numbers, Use ODD ones
 - Be Pleasantly persistent on non salary terms - like an added week on vacation
-- Get an unofficial Mentor by asking - “*What does it take to be successful here?*”
+- Get an unofficial Mentor by asking - “_What does it take to be successful here?_”
 
 **Calibrated Questions:**
 
-- Avoid verbs or words like: *can, is, are, do, does
+- Avoid verbs or words like: \*can, is, are, do, does
 - Ask open ended questions with: **what, how**, who, when, where
 - DO NOT use WHY - can backfire
 - How does this look to you?

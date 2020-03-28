@@ -1,9 +1,9 @@
 ---
 title: "Characterization of HRV by Poincare Plot Analysis among the Female Tea Garden Workers of Northern Hilly Regions of West Bengal"
 authors:
-- admin
-- Saugat Bhattacharyya
-- Ankur Ganguly
+  - somsirsa
+  - Saugat Bhattacharyya
+  - Ankur Ganguly
 date: "2012-12-16T00:00:00Z"
 doi: ""
 
@@ -18,7 +18,7 @@ publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
 publication: In Advancing Technologies and Intelligence in Healthcare and Clinical Environments Breakthroughs
-publication_short: 
+publication_short:
 
 abstract: Recent research on Heart Rate Variability (HRV) has proven that Poincare Plot is a powerful tool to mark Short Term and Long Term Heart Rate Variability. This study focuses a comprehensive characterization of HRV among the Tea Garden Workers of the Northern Hilly Regions of West Bengal. The characterization, as available from the data sets, projects the average values of SD1 characteristics, that is, Short Term HRV in females as 58.265ms and SD2 as 149.474. The SDRR shows a mean value of 87.298 with a standard deviation of 119.669 and the S Characterization as 16505.99 ms and Standard deviation of 45882.31 ms. The SDRR shows a mean value of 87.298 with a standard deviation of 119.669 and the S Characterization as 16505.99 ms and Standard deviation of 45882.31 ms. ApEn Characterization showed mean value of 0.961 and standard deviation of 0.274.
 
@@ -26,8 +26,8 @@ abstract: Recent research on Heart Rate Variability (HRV) has proven that Poinca
 summary: Recent research on Heart Rate Variability (HRV) has proven that Poincare Plot is a powerful tool to mark Short Term and Long Term Heart Rate Variability. This study focuses a comprehensive characterization of HRV among the Tea Garden Workers of the Northern Hilly Regions of West Bengal.
 
 tags:
-- HRV
-- Poincare Plot
+  - HRV
+  - Poincare Plot
 
 featured: true
 
@@ -35,16 +35,16 @@ links:
 #- name: Custom Link
 #  url: http://example.org
 url_pdf: https://www.igi-global.com/chapter/characterization-hrv-poincare-plot-analysis/67865
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_code: ""
+url_dataset: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: ""
@@ -56,7 +56,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- HRV
+  - HRV
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

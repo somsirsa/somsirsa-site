@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Special Recommendations"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "/static/img/avatar.jpg"
+# hero_media = "/static/img/avatar.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.

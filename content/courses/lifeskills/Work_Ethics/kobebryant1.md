@@ -6,7 +6,7 @@ type: docs
 date: "2019-05-05T00:00:00+01:00"
 draft: false
 menu:
-  personaldev:
+  lifeskills:
     parent: Work Ethics
     weight: 01
 
@@ -45,7 +45,7 @@ Cleaner - end result delivered - no matter what variable is thrown at them - don
 - You get into the zone - you control the uncontrollable - It is about clarity - LEARN HOW NOT TO THINK - their instincts trusts them
 - you know exactly who you are
 - you trust very few people those better never let you down - create distance - distance has to become your best friend
-- its only a failure if you decide it is a failure - No is the start of a conversation - talent + intelligence  + competitiveness + resiliency
+- its only a failure if you decide it is a failure - No is the start of a conversation - talent + intelligence + competitiveness + resiliency
 - you never celebrate your achievements - because its never enough - winning is an addiction - trade your addiction
 - Work smarter AND harder - how to be effective - you have to be obsessive - you have to be addicted - you have to be disciplined - STOP looking for help from everybody else
 - YOU change your own identity
