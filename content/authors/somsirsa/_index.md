@@ -85,7 +85,7 @@ email: "somsirsa@gmail.com"
 
 With the speed at which technology is advancing, what a student faces at the moment is to keep up with it. But how do they do it? How can mentors guide them?
 
-ai.somsirsa.com, spearheaded by **_Somsirsa Chatterjee_** in collaboration with **_Sharman Kaur_** and **_Kritika Srivastava_**. is a crossfunctional platform that integrates Academia with Industry providing real-world experience to our students.
+ai.somsirsa.com, spearheaded by **_Somsirsa Chatterjee_** in collaboration with **_Sharman Kaur_** and **_Kritika Srivastava_** is a crossfunctional platform that integrates Academia with Industry providing real-world experience to our students.
 
 We are currently under the process of developing an integrated cross-platform framework for Students, Mentors, and Industry Experts through which students can have a taste of what the actual industry requires from the young workforces and also the industry experts can pick up interns and even future employees by working closely with our students on live projects and workshops.
 
