@@ -9,7 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "Courses"
+  name = "Tutorials"
   url = "courses/"
   weight = 20
 
@@ -30,8 +30,8 @@
 
 [[main]]
   name = "Team"
-  url = "team/"
-  weight = 68
+  url = "#team"
+  weight = 50
 
 [[main]]
   name = "Connect"

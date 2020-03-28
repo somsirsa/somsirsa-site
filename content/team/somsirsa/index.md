@@ -1,9 +1,9 @@
 ---
-title: Aanchal Singh
+title: Somsirsa Chatterjee
 summary:
 tags:
-  - Content Design
-date: "2020-03-27T00:00:00Z"
+  - Machine Learning Evangelist
+date: "2020-03-26T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -30,6 +30,6 @@ url_video: ""
 slides: "example-slides"
 ---
 
-## Creative Designer
+## Founder & Machine Learning Expert
 
-aanchal@somsirsa.com
+contact@somsirsa.com

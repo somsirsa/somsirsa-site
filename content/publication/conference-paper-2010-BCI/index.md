@@ -1,11 +1,11 @@
 ---
 title: "Performance analysis of LDA, QDA and KNN algorithms in left-right limb movement classification from EEG data"
 authors:
-- Saugat Bhattacharyya
-- Anwesha Khasnobish
-- admin
-- Amit Konar
-- DN Tibarewala
+  - Saugat Bhattacharyya
+  - Anwesha Khasnobish
+  - somsirsa
+  - Amit Konar
+  - DN Tibarewala
 date: "2010-12-16T00:00:00Z"
 doi: ""
 
@@ -28,27 +28,27 @@ abstract: Brain Computer Interface (BCI) improve the lifestyle of the normal peo
 summary: Brain Computer Interface (BCI) improve the lifestyle of the normal people by enhancing their performance levels. It also provides a way of communication for the disabled people with their surrounding who are otherwise unable to physically communicate. BCI can be used to control computers, robots, prosthetic devices and other assistive technologies for rehabilitation.
 
 tags:
-- BCI
-- Machine Learning
-- Rehabilitative Engineering
+  - BCI
+  - Machine Learning
+  - Rehabilitative Engineering
 featured: true
 
 links:
 #- name: Custom Link
 #  url: http://example.org
 url_pdf: https://ieeexplore.ieee.org/abstract/document/5735358
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_code: ""
+url_dataset: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://scienews.com/)'
+  caption: "Image credit: [**Unsplash**](https://scienews.com/)"
   focal_point: ""
   preview_only: false
 
@@ -58,7 +58,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- HRV
+  - HRV
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
