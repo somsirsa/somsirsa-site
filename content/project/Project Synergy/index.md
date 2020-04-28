@@ -19,7 +19,7 @@ date: "2008-12-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by Uriel Soberanes on Unsplash
   focal_point: Smart
 
 links:
