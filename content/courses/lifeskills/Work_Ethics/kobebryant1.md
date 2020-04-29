@@ -11,7 +11,7 @@ menu:
     weight: 01
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 010
 ---
 
 In this tutorial, I'll share my pro insights for getting started with an efficient routine development framework:

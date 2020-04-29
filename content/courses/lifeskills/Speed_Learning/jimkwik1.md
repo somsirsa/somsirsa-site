@@ -9,10 +9,10 @@ draft: false
 menu:
   lifeskills:
     parent: Speed Learning
-    weight: 02
+    weight: 021
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 2
+weight: 021
 ---
 
 ## Learning Fast

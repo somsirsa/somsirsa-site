@@ -8,10 +8,10 @@ draft: false
 menu:
   lifeskills:
     parent: Negotiation
-    weight: 30
+    weight: 030
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 3
+weight: 30
 ---
 
 ## **Asking 'No' Questions**

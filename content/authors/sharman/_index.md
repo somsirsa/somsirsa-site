@@ -52,19 +52,10 @@ interests:
 social:
     - icon: linkedin
       icon_pack: fab
-      link: "https://www.linkedin.com/in/somsirsa/"
+      link: "https://www.linkedin.com/in/sharman/"
     - icon: envelope
       icon_pack: fas
-      link: "mailto:contact@somsirsa.com" # For a direct email link, use "mailto:test@example.org".
-    - icon: twitter
-      icon_pack: fab
-      link: https://twitter.com/somsirsa
-    - icon: google-scholar
-      icon_pack: ai
-      link: https://scholar.google.co.in/citations?user=bLBUP9QAAAAJ&hl=en
-    - icon: github
-      icon_pack: fab
-      link: https://github.com/somsirsa
+      link: "mailto:sharman@somsirsa.com" # For a direct email link, use "mailto:test@example.org".
 
     # Link to a PDF of your resume/CV from the About widget.
 

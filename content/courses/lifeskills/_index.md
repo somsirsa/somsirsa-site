@@ -7,9 +7,9 @@ weight: 2
 
 # Page metadata
 
-title: Course Outline
+title: Determination, Grit and Motivation
 date: "2018-09-09T00:00:00Z"
-lastmod: "2019-12-01T13:00:00Z"
+lastmod: "2020-04-28T07:00:00Z"
 draft: false # Is this a draft? true/false
 toc: true # Show table of contents? true/false
 type: docs # Do not modify.
@@ -22,7 +22,6 @@ type: docs # Do not modify.
 
 menu:
   lifeskills:
-    name: Ethics
-    weight: 1
+    name: Work_Ethics
+    weight: 010
 ---
-
