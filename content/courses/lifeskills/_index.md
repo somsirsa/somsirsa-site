@@ -1,9 +1,9 @@
 ---
 # Course title, summary, and position.
 
-linktitle: Life Skills
+linktitle: Skillsets
 summary:
-weight: 2
+weight: 1
 
 # Page metadata
 
@@ -21,7 +21,7 @@ type: docs # Do not modify.
 # - weight: Position of link in menu.
 
 menu:
-  lifeskills:
-    name: Work_Ethics
-    weight: 010
+  courses:
+    name: Skillsets
+    weight: 001
 ---
