@@ -3,9 +3,10 @@ title: Tandanu Episode 05
 linktitle: Episode 5 - Pt. Vishwamohan Bhatt
 toc: true
 type: docs
-date: "2020-05-02T12:36:00+01:00"
+date: "2020-05-02T13:36:00+01:00"
 event:
 draft: false
+
 menu:
   lifeskills:
     parent: Indian Ocean

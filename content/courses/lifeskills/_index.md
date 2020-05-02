@@ -22,6 +22,6 @@ type: docs # Do not modify.
 
 menu:
   courses:
-    name: Lifeskills
+    name: Indian Ocean
     weight: 001
 ---

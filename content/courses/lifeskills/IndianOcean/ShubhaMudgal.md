@@ -12,7 +12,7 @@ menu:
     weight: 001
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 001
+weight: 01
 ---
 
 ## Indian Ocean ft. Shubha Mudgal | Gar Ho Sake

@@ -3,7 +3,7 @@ title: Tandanu Episode 02
 linktitle: Episode 2 - Karsh Kale
 toc: true
 type: docs
-date: "2020-05-02T00:00:00+01:00"
+date: "2020-05-02T12:36:00+01:00"
 event:
 draft: false
 menu:
