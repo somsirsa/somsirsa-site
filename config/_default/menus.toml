@@ -9,9 +9,14 @@
   weight = 10
 
 [[main]]
-  name = "Courses"
-  url = "courses/"
+  name = "Skillsets"
+  url = "courses/lifeskills/"
   weight = 20
+
+[[main]]
+  name = "Music"
+  url = "courses/Music/IndianOcean/"
+  weight = 
 
 [[main]]
   name = "Insights"
